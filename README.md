@@ -87,7 +87,7 @@ strategic decisions based on real-time data insights.
 |------|-------------|
 | `![image](https://github.com/user-attachments/assets/1968cb22-0554-449e-a0fd-ecccd3e5e987)
 dashboard-preview.png` | Screenshot of the Power BI dashboard |
-| `Ecommerce_Sales_Analytics_Dashboard_Project_Writeup.pdf` | Full project documentation |
+| `https://github.com/joshuaochuko4-cyber/Ecommerce-sales-analytics-powerbi/blob/ebf83d214eb17abb9104432556917a97e0bc7c1d/isah%20joshua%20e-commerce.pbix` | Full project documentation |
 
 ---
 
